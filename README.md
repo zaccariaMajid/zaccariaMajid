@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Zaccaria 👋  
 
-<!--
-**zaccariaMajid/zaccariaMajid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **.NET Software Developer | Full-Stack Developer (C#, Blazor, Angular, Azure)**  
+Italian developer passionate about building scalable applications, clean architecture, and modern web solutions.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Backend**: C#, .NET Core, ASP.NET, Blazor, MVC  
+- **Frontend**: Angular, TypeScript, JavaScript, HTML/CSS, Bootstrap  
+- **Database**: SQL Server, EF Core  
+- **DevOps & Tools**: Azure, Docker, Git, CI/CD, Visual Studio  
+- **Agile**: Scrum, Professional Scrum Developer (PSD certified)  
+
+---
+
+## 🏆 Certifications
+- Professional Scrum Developer (Scrum.org, 2024)  
+
+---
+
+## 🌍 About Me
+- 💡 I enjoy solving complex problems with clean, testable code.  
+- 🌱 Currently learning more about **cloud-native .NET** and **Kubernetes**.  
+- 🌍 Open to relocation opportunities in Sweden and other EU countries.  
+
+---
+
+## 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/zaccaria-majid-811b14243/)  
+- 📧 info.majidzaccaria@gmail.com
+
+---
+
+⭐️ From [zaccariaMajid](https://github.com/zaccariaMajid)
