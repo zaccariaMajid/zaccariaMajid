@@ -22,7 +22,7 @@ Italian developer passionate about building scalable applications, clean archite
 ## 🌍 About Me
 - 💡 I enjoy solving complex problems with clean, testable code.  
 - 🌱 Currently learning more about **cloud-native .NET** and **Kubernetes**.  
-- 🌍 Open to relocation opportunities in Sweden and other EU countries.  
+- 🌍 Open to relocation opportunities.
 
 ---
 
