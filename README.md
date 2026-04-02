@@ -6,10 +6,10 @@ Italian developer passionate about building scalable applications, clean archite
 ---
 
 ## 🔧 Tech Stack
-- **Backend**: C#, .NET Core, ASP.NET, Blazor, MVC  
-- **Frontend**: Angular, TypeScript, JavaScript, HTML/CSS, Bootstrap  
-- **Database**: SQL Server, EF Core  
-- **DevOps & Tools**: Azure, Docker, Git, CI/CD, Visual Studio  
+- **Backend**: C#, .NET Core, ASP.NET,
+- **Frontend**: Blazor, TypeScript, JavaScript, HTML/CSS, Bootstrap 
+- **Database**: SQL Server, EF Core, MongoDB
+- **DevOps & Tools**: Azure, Docker, Git, Visual Studio  
 - **Agile**: Scrum, Professional Scrum Developer (PSD certified)  
 
 ---
@@ -21,7 +21,6 @@ Italian developer passionate about building scalable applications, clean archite
 
 ## 🌍 About Me
 - 💡 I enjoy solving complex problems with clean, testable code.  
-- 🌱 Currently learning more about **cloud-native .NET** and **Kubernetes**.  
 
 ---
 
