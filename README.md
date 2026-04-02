@@ -1,13 +1,12 @@
 # Hi there, I'm Zaccaria 👋  
 
-🚀 **.NET Software Developer | Full-Stack Developer (C#, Blazor, Angular, Azure)**  
+🚀 **.NET Software Developer | Backend Developer (C#, .NET)**  
 Italian developer passionate about building scalable applications, clean architecture, and modern web solutions.  
 
 ---
 
 ## 🔧 Tech Stack
 - **Backend**: C#, .NET Core, ASP.NET,
-- **Frontend**: Blazor, TypeScript, JavaScript, HTML/CSS, Bootstrap 
 - **Database**: SQL Server, EF Core, MongoDB
 - **DevOps & Tools**: Azure, Docker, Git, Visual Studio  
 - **Agile**: Scrum, Professional Scrum Developer (PSD certified)  
